@@ -14,9 +14,10 @@ This research proposed a modification scheme of the VQA-based Data Reuploading C
 
 ### Table of Contents
 **Note**: all contents here are written in Indonesian as required by the university. If you are non-Indonesian but interested in this research and would like to receive a summary in English, please feel free to contact me.
-- [Thesis Paper](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/13316082_Tugas%20Akhir.pdf).
-- [Thesis Defense Presentation](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/13316082_Presentasi%20Tugas%20Akhir.pdf).
-- [Thesis Poster](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/13316082_Poster%20Tugas%20Akhir.pdf).
+- [Thesis Paper](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/13316082_Tugas%20Akhir.pdf)
+- [Thesis Defense Presentation](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/13316082_Presentasi%20Tugas%20Akhir.pdf)
+- [Thesis Poster](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/13316082_Poster%20Tugas%20Akhir.pdf)
 
 
 ### Acknowledgment
+This thesis project is supported by grants from [Radio Telecommunication and Microwave Laboratory](https://et.stei.itb.ac.id/ltrgm/) under Prof. Andriyan's supervision. Starting from January 2021, this thesis project's affiliation changed to the [Quantum Technology Laboratory](http://qlab.itb.ac.id/index.html), a newly founded laboratory at Bandung Institute of Technology.
