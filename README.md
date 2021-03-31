@@ -4,6 +4,9 @@ A repository for finishing my undergraduate thesis titled: <br>
 *Quantum Image Classifier Design with Data Re-uploading Quantum Convolution and Data Re-uploading Classifier Scheme*. <br>
 Advisors: [Ir. Nugraha, Ph.D.](https://scholar.google.co.id/citations?user=fym11QIAAAAJ&hl=id) and [Prof. Andriyan Bayu Suksmono M.T., Ph.D.](https://scholar.google.co.id/citations?user=IMH571IAAAAJ&hl=en)
 
+![DRQConv Diagram](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/DRQConv%201%20diagram.png) <br>
+*A flow diagram of the Data Re-uploading Quantum Convolution scheme.*
+
 ### Abstract
 The need for computational power keeps increasing as industry and academia's problems get harder and harder to solve. Applications such as simulation of large quantum systems like molecules or solving large linear systems can be very expensive in computational cost. This has become one of the reasons for quantum computing development, a computational method that employs characteristics and theories of quantum systems for information processing. Quantum computers promise us exponential speed-up for these kinds of problems.
 
