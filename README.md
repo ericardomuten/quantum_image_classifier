@@ -2,7 +2,7 @@
 
 A repository for finishing my undergraduate thesis titled: <br>
 *Quantum Image Classifier Design with Data Re-uploading Quantum Convolution and Data Re-uploading Classifier Scheme*. <br>
-Advisors: [Ir. Nugraha, Ph.D.](https://scholar.google.co.id/citations?user=fym11QIAAAAJ&hl=id) and [Prof. Andriyan Bayu Suksmono M.T., Ph.D.](https://scholar.google.co.id/citations?user=IMH571IAAAAJ&hl=en)
+Advisors: [Prof. Andriyan Bayu Suksmono M.T., Ph.D.](https://scholar.google.co.id/citations?user=IMH571IAAAAJ&hl=en) and [Ir. Nugraha, Ph.D.](https://scholar.google.co.id/citations?user=fym11QIAAAAJ&hl=id).
 
 ![DRQConv Diagram](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/DRQConv%201%20diagram.png) <br>
 *A flow diagram of the Data Re-uploading Quantum Convolution scheme.*
