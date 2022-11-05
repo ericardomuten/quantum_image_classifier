@@ -7,6 +7,9 @@ Advisors: [Prof. Andriyan Bayu Suksmono M.T., Ph.D.](https://scholar.google.co.i
 ![DRQConv Diagram](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/DRQConv%201%20diagram.png) <br>
 *A flow diagram of the Data Re-uploading Quantum Convolution scheme.*
 
+![Alt Text](https://github.com/ericardomuten/quantum_image_classifier/blob/master/Results/train_QConv1.gif)<br>
+*An animation showing how the quantum states evolve on the Bloch sphere during training. Every point represents a data point, with blue color shows data points of number 0 and red color shows data points of number 1 in the MNIST dataset. At the start, all the data points got mapped randomly on to a single location in the Bloch sphere, as the circuit parameters are randomly generated. But after several training iteration, we can see that the circuit maps the blue points toward the |0⟩ state and the red points toward the |1⟩ state, indicating that the circuit is now able to differentiate different numbers in the dataset.*
+
 ### Abstract
 The need for computational power keeps increasing as industry and academia's problems get harder and harder to solve. Applications such as simulation of large quantum systems like molecules or solving large linear systems can be very expensive in computational cost. This has become one of the reasons for quantum computing development, a computational method that employs characteristics and theories of quantum systems for information processing. Quantum computers promise us exponential speed-up for these kinds of problems.
 
