@@ -10,10 +10,11 @@ Advisors: [Prof. Andriyan Bayu Suksmono M.T., Ph.D.](https://scholar.google.co.i
 ![Training gif](https://github.com/ericardomuten/quantum_image_classifier/blob/master/Results/train_QConv1.gif) <br>
 *An animation showing how the quantum states evolve on the Bloch sphere during training. Every point represents a data point, with blue color shows data points of number 0 and red color shows data points of number 1 in the MNIST dataset. At the start, all the data points got mapped randomly on to a single location in the Bloch sphere, as the circuit parameters are randomly generated. But after several training iteration, we can see that the circuit maps the blue points toward the |0⟩ state and the red points toward the |1⟩ state, indicating that the circuit is now able to differentiate different numbers in the dataset.*
 
-![4 classes](https://github.com/ericardomuten/quantum_image_classifier/blob/master/Results/1a_4classes%20cropped.png) <br>
+<a><img alt="4 classes" height="200px" src="https://github.com/ericardomuten/quantum_image_classifier/blob/master/Results/1a_4classes%20cropped.png" /></a> <br>
 *For more than 2 classes of classification, we need to separate each class into its own region in the Bloch sphere. To make training easier, we need to make sure that those regions for each class are maximally orthogonal to each other. For example, for 4 classes clasification, we can take the shape of regular tetrahedron as the reference and treat the vertices as the region for each class (with all four vertices touch the surface of the Bloch sphere).*
 
 <!--
+![4 classes](https://github.com/ericardomuten/quantum_image_classifier/blob/master/Results/1a_4classes%20cropped.png) <br>
 <a href="https://ml4sci.org/" target="_blank"><img alt="gsoc@ml4sci" height="200px" src="https://raw.githubusercontent.com/eraraya-ricardo/qcnn-hep/main/assets/gsoc%40ml4sci.jpeg" /></a>
 -->
 
